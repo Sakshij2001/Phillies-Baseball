@@ -2,6 +2,8 @@
 
 A full-stack web application that calculates the MLB qualifying offer value by analyzing the top 125 player salaries from live data. The qualifying offer is a critical mechanism in baseball's free agency system, and this tool provides real-time calculations along with comprehensive data visualizations and analytics.
 
+### Live Demo: https://frontend-production-020c.up.railway.app/
+
 ## Overview
 
 In baseball, teams can extend a **qualifying offer** to departing free agents—a one-year contract valued at the average of the 125 highest salaries from the previous season. This application:
@@ -135,7 +137,7 @@ VITE v5.4.21  ready in XXX ms
 ➜  press h + enter to show help
 ```
 
-## 🎯 Usage
+## Usage
 
 1. **Access the Application**: Open your browser to `http://localhost:3000`
 
